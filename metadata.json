@@ -1,0 +1,8 @@
+
+{
+  "name": "PrantoX AI",
+  "description": "A modern, intelligent AI assistant supporting text, voice, and image interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
